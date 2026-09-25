@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.223,
+  "time": 0.219,
   "errors": [],
   "tasks": [
     {
@@ -357,7 +357,7 @@
           "rows": 0
         }
       },
-      "time": 0.19,
+      "time": 0.188,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -28856,7 +28856,7 @@
             "68",
             "Feminino",
             "Não",
-            "",
+            "Parda",
             "5ª a 8ª série incompleta do EF",
             "Montes Claros",
             "Montes Claros",
@@ -28909,7 +28909,7 @@
             "68",
             "Feminino",
             "Não",
-            "",
+            "Parda",
             "5ª a 8ª série incompleta do EF",
             "Montes Claros",
             "Montes Claros",
@@ -29068,7 +29068,7 @@
             "40",
             "Feminino",
             "Não",
-            "",
+            "Parda",
             "",
             "Montes Claros",
             "Montes Claros",
