@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.219,
+  "time": 0.216,
   "errors": [],
   "tasks": [
     {
@@ -357,7 +357,7 @@
           "rows": 0
         }
       },
-      "time": 0.188,
+      "time": 0.184,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1795,8 +1795,8 @@
             "2,0",
             "1,0",
             "0,0",
-            "",
-            ""
+            "2025-03-27",
+            "Abandono"
           ],
           "rowNumber": 14,
           "rowPosition": 15,
